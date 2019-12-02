@@ -1,0 +1,287 @@
+*{
+	margin: 0px;
+}
+
+body{
+
+	
+}
+header{
+	background-color: #f6f9f9;
+	height: 100px;
+}
+header img{
+
+		margin-top: 25px;
+		
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.banner{
+	background: url(../img/hero.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.back h1{
+	text-align: center;
+	color: white;
+	font-size: 70px;
+	padding-top: 200px;
+	
+}
+.underline{
+	border-bottom: 2px solid skyblue;
+	width: 50%;
+	margin: 0px auto;
+	display: block;
+	padding-bottom: 10px;
+}
+.back h5{
+	color: white;
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 20px;
+
+}
+button{
+	margin: 0 auto;
+    display: block;
+    padding: 15px 30px;
+    background: #ff000000;
+    border-color: skyblue;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+.back img{
+	display: block;
+    margin: 0 auto;
+    padding: 100px;
+}
+.second {
+	background-color: #f6f9f9;
+	padding: 100px 0px;
+}
+
+.second h1{
+    text-align: center;
+    color: #2d3950;
+    font-size: 35px;
+    padding-top: 50px;
+}
+.second h4{
+	text-align: center;
+    color: #7a808c;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.icon{
+	width:100%;
+	float:left;
+	margin-top:64px;
+	margin-bottom:65px;
+}
+
+.iconone{
+	width: 33%;
+	float: left;
+}
+.iconone h1{
+	text-align: center;
+    font-size: 30px;
+    color: #63647d;
+}
+.iconone h5{
+	text-align: center;
+    font-size: 15px;
+    color: #1d1d2f;
+    padding: 10px 25px;
+}
+.icontwo{
+	width: 33%;
+	float: left;
+}
+.icontwo h1{
+	text-align: center;
+    font-size: 30px;
+    color: #63647d;
+}
+.icontwo h5{
+	text-align: center;
+    font-size: 15px;
+    color: #1d1d2f;
+    padding: 10px 25px;
+}
+.iconthree{
+	width: 33%;
+	float: left;
+}
+.iconthree h1{
+	text-align: center;
+    font-size: 30px;
+    color: #63647d;
+}
+.iconthree h5{
+	text-align: center;
+    font-size: 15px;
+    color: #1d1d2f;
+    padding: 10px 25px;
+}
+i.fas.fa-mobile {
+    font-size: 50px;
+    text-align: center;
+    display: block;
+    color: skyblue;
+    padding: 15px 0px;
+}
+
+i.fas.fa-paper-plane {
+    font-size: 50px;
+    text-align: center;
+    display: block;
+    color: skyblue;
+    padding: 15px 0px;
+}
+i.fas.fa-bullhorn {
+    font-size: 50px;
+    text-align: center;
+    display: block;
+    color: skyblue;
+    padding: 15px 0px;
+}
+
+.text{
+	width:100%;
+	float:left;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #f9f9f9;
+}
+.textone h1{
+	text-align: center;
+    font-size: 35px;
+    color: #2d3950;
+}
+.textone h5{
+	text-align: center;
+    font-size: 15px;
+    color: #2d3950;
+}
+.image{
+	width: 100%;
+	float: left;
+}
+.imageone{
+	width: 100%;
+	float: left;
+}
+.imgone img{
+	width: 32%;
+	float: left;
+	margin-right: 10px;
+	margin-top: 10px;
+	cursor: pointer;
+	
+}
+.final{
+	background:url(../img/bga.png);
+	width:100%;
+	float:left;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.forml{
+	width: 540px;
+	margin:0px auto;
+	display: block;
+}
+.forml h1{
+	text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.forml h5{
+	text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 10px
+}
+.form-control{
+	width: 100%;
+    padding: 20px 5px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    background: #f0f8ff05;
+}
+footer{
+	width:100%;
+	float:left;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #f9f9f9;
+}
+footer .copy{
+	width: 50%;
+	float: left;
+}
+footer .copy h3 {
+    font-size: 15px;
+    text-align: left;
+    color: #26285f;
+    padding-top: 5px;
+}
+
+footer .social{
+	width: 50%;
+	float: left;
+	text-align: right;
+}
+i.fab.fa-facebook-square {
+    font-size: 30px;
+    color: skyblue;
+    cursor: pointer;
+}
+i.fab.fa-twitter-square {
+    font-size: 30px;
+    color: skyblue;
+    cursor: pointer;
+}
+i.fab.fa-linkedin {
+    font-size: 30px;
+    color: skyblue;
+    cursor: pointer;
+}
+i.fab.fa-youtube-square {
+    font-size: 30px;
+    color: skyblue;
+    cursor: pointer;
+}
+i.fab.fa-youtube-square:hover {
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
+i.fab.fa-linkedin:hover {
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
+i.fab.fa-facebook-square:hover {
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
+i.fab.fa-twitter-square:hover {
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}

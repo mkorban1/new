@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+}
+body{
+	background: url(../img/sign.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	font-family: 'Bebas Neue', cursive;
+}
+
+.container{
+	width: 400px;
+	margin:0px auto;
+	display: block;
+	padding-top: 150px;
+
+
+}
+
+h1 {
+    color: #e62164;
+    text-align: center;
+	font-size: 70px;
+	font-family: 
+}
+.form-control{
+	width: 100%;
+	padding: 15px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+button{
+   
+	margin: 0 auto;
+    display: block;
+    padding: 10px 40px;
+    border-radius: 15px;
+    width: 50%;
+    background: #f44336;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+button a{
+	text-decoration: none;
+	color: black;
+}
